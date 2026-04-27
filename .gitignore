@@ -1,0 +1,8 @@
+.DS_Store
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/data.json
+.obsidian/themes/*/*
+!.obsidian/themes/*/data.json

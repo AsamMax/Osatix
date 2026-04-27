@@ -1,0 +1,18 @@
+{
+  "fancy-a-story@@fas-adaptive-accent": true,
+  "fancy-a-story@@fas-opposite-bg": false,
+  "fancy-a-story@@theme-variant-dark": "fas-mystic",
+  "fancy-a-story@@fas-skin-select": "fas-skin-medieval",
+  "fancy-a-story@@fas-note-background-image": false,
+  "fancy-a-story@@status-bar-position": "fas-status-bar-default-hover",
+  "fancy-a-story@@ribbon-position": "fas-ribbon-horizontal-floating-hover",
+  "fancy-a-story@@fas-left-toggle-button-in-root": false,
+  "fancy-a-story@@fas-vault-menu-top": false,
+  "fancy-a-story@@show-note-header-on-hover": "disable",
+  "fancy-a-story@@crop-root-corners": "disable",
+  "fancy-a-story@@fas-rainbow-folders": "nested",
+  "fancy-a-story@@fas-bg-textures": true,
+  "fancy-a-story@@fas-bigger-font": false,
+  "fancy-a-story@@fas-accessibility": false,
+  "fancy-a-story@@fas-statblocks-custom": false
+}

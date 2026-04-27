@@ -1,0 +1,13 @@
+{
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 74
+  }
+}

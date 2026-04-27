@@ -1,0 +1,76 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "TTRPG-Prep/Finding of Paths/NPCs/Mandolin.md": {
+      "icon": "🏪"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Marci.md": {
+      "icon": "🐭"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Marius and Mirabella.md": {
+      "icon": "😈"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Runelords/Alaznist.md": {
+      "icon": "lucide-angry",
+      "color": "orange"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Runelords/Belimarius.md": {
+      "icon": "lucide-key",
+      "color": "green"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Runelords/Karzoug.md": {
+      "icon": "lucide-coins",
+      "color": "yellow"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Runelords/Krune.md": {
+      "icon": "lucide-bed-double",
+      "color": "blue"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Runelords/Sorshen.md": {
+      "icon": "lucide-heart",
+      "color": "red"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Runelords/Xanderghul.md": {
+      "icon": "lucide-crown",
+      "color": "pink"
+    },
+    "TTRPG-Prep/Finding of Paths/NPCs/Runelords/Zutha.md": {
+      "icon": "lucide-skull",
+      "color": "purple"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}
