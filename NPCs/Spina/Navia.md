@@ -12,7 +12,7 @@ aliases:
 
 ## Overview
 
-Navia is the young but fierce and unexpectedly experienced crime boss of the [[Spina di Rosula]]. She grew up into it as her father build up the syndicate while raising her. Now that he has recently disappeared without a trace she is on the hunt to find him al the while keeping an empire of underground activities running and growing.
+Navia is the young but fierce and unexpectedly experienced crime boss of the [[Consortium Baleinier]]. She grew up into it as her father build up the syndicate while raising her. Now that he has recently disappeared without a trace she is on the hunt to find him al the while keeping an empire of underground activities running and growing.
 
 ![[Pasted image 20260506170104.png]]
 

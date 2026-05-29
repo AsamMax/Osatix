@@ -13,18 +13,11 @@ Overall the island is rich in greenery, shallow oceans full of [[Sealife]] and s
 
 The [[Fontaine Research Institute]] is a state funded organization tasked with researching magic and well on their way to industrialize it and make it available to their law-enforcement and on occasion the general public. Only recently a new experiment has gone terribly wrong, exploded some senior researchers and left behind a strangely changed landscape.
 
-Unhappy with the bureaucratic and centralized government and strong control of resources as well as knowledge, an underground network of black markets and syndicates has risen, the most prominent of them being the [[Spina di Rosula]] based in [[Poisson]] to the south. Their goal is to provide to the people what the government fails to, and make a profit along the way.
+Unhappy with the bureaucratic and centralized government and strong control of resources as well as knowledge, an underground network of black markets and syndicates has risen, the most prominent of them being the [[Consortium Baleinier]] based in [[Poisson]] to the south. Their goal is to provide to the people what the government fails to, and make a profit along the way.
 
 However, not all in the archipelago is industrial and human driven, as a few islands on the risen mesa remain home to inherently magical beings. To the west on [[Elynas]] the [[Melusines]] life on an island formed by the remains of their fallen god and forebearer. Meanwhile in the far east the always foggy [[Erinnyes Forest]] is home to [[Fae]].
 
 Meanwhile at the deepest parts of the not always shallow oceans on the plateau there lie the [[Ruins]] of an ancient civilization that once thrived here but was destroyed by a terrible flood. A catastrophe prophesized to return, and one the [[Goddess]] is prepared to use any means necessary to avoid. Including placing an Actress in her place to hide her true plans.
-
-## Points of Interest
-
-| Name                        | Type | Status     |
-| --------------------------- | ---- | ---------- |
-| [[Osatix\|Absalom Station]] | Ship | Well-Known |
-|                             |      |            |
 
 ---
 

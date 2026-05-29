@@ -14,13 +14,31 @@ aliases:
 **Relevance:** Campaign Introduction  
 **Status:** Planned
 
-## Quick Names
+## Quick Notes
 
 - **Marelevo** The Port
 - **Aecor** The Island(s)
 - **Le Consortium Baleinier** The Whale Consortium
-- **Le Patron** The Boss of the Consortium
+  - **Le Patron** The Boss of the Consortium
+  - **Kasimir** Consortium Contact
+  - **Valeria**
+  - **Dorian**
+    - Kunde an der Bergspitze - Blaue Rose
+      - 2 Krystal Kugeln, eine Fake eine Real
 - **Tortles** The dumb little guys
+  - **Quentin** - Hafen Greeter Guy
+- **Zum Nassen Pelican** - Tavern
+- **Marcellus**
+  - Hat diabetis typ 1 glaubt er
+- **Ihr Onkel sein Gsicht auf der Münze**
+
+## Reserve NPC names
+
+- Alaric
+- Isolde
+- Selene
+- Thaddeus
+- Evander
 
 ## Overview
 
@@ -45,7 +63,7 @@ Documents in Order of them being told to get them and where:
 
 ## The Crime Gang's Offer
 
-As the party frustrates with the guards or considers leaving, they're quietly approached by a figure from the shadows, a member of the local crime syndicate, [[Spina di Rosula]]. The gang representative sympathizes with their plight and makes an attractive offer: they can provide forged documents, expedited "customs approval," and safe passage through the harbor district for a price. Better yet, they'd bypass the cost entirely in exchange for the party doing a "small favor."
+As the party frustrates with the guards or considers leaving, they're quietly approached by a figure from the shadows, a member of the local crime syndicate, [[Consortium Baleinier]]. The gang representative sympathizes with their plight and makes an attractive offer: they can provide forged documents, expedited "customs approval," and safe passage through the harbor district for a price. Better yet, they'd bypass the cost entirely in exchange for the party doing a "small favor."
 
 ## The Hook Sets
 
@@ -56,7 +74,7 @@ The party now faces a choice: spend days untangling bureaucracy, pay exorbitant 
 ## 🔗 Related Elements
 
 **Locations:** [[Romaritime Harbor]]  
-**NPCs:** [[Spina di Rosula]] (Crime Gang)  
+**NPCs:** [[Consortium Baleinier]] (Crime Gang)  
 **Plot Hooks:** Harbor Bureaucracy, Criminal Favor
 
 **Next Steps:** Determine party's choice and introduce key NPCs accordingly

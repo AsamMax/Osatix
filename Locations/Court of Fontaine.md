@@ -29,7 +29,7 @@ The main city in the center of the islands. Made up of high walls and can only b
 - **The Steambird**
 	- Primary newspaper of the city which is read all over the nation. State controlled though some reporters, like [[Charlotte]], may be too free spirited for that.
 - **Fleuve Cendre**
-	-  Located in the sewers beneath the city, this hidden settlement is mainly inhabited by societal outcasts, active criminals and the destitute. It is de facto governed by the [[Spina di Rosula]]. It is one of the few places with hidden entry and exit points from the city.
+	-  Located in the sewers beneath the city, this hidden settlement is mainly inhabited by societal outcasts, active criminals and the destitute. It is de facto governed by the [[Consortium Baleinier]]. It is one of the few places with hidden entry and exit points from the city.
 
 ## Connections
 
