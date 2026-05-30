@@ -4,7 +4,7 @@ tags:
 created: 2026-05-06
 aliases:
 ---
-# Fontaine Research Institute
+# Aecor Research Institute
 
 **Type:** Location
 **Relevance:** Session X / Arc Y  

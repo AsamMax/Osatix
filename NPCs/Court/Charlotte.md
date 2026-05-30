@@ -12,7 +12,7 @@ aliases:
 
 ## Overview
 
-Charlotte is a reporter for the Steambird based in [[Court of Fontaine]] who may just be a little too good at her job. Her newest case has her looking into the sudden disappearance of citizens, leaving nothing but a puddle of water behind. But for some reason it seems that on every turn she runs into barriers, some put there by the government itself?
+Charlotte is a reporter for the Steambird based in [[Court of Aecor]] who may just be a little too good at her job. Her newest case has her looking into the sudden disappearance of citizens, leaving nothing but a puddle of water behind. But for some reason it seems that on every turn she runs into barriers, some put there by the government itself?
 
 ![[Pasted image 20260506164220.png]]
 

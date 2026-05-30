@@ -3,19 +3,19 @@ tags:
   - location
 created: 2026-05-06
 aliases:
-  - Romaritime Harbor
+  - Elynas
 ---
-# Romaritime Harbor
+# Galapas
 
-**Type:** Location
-**Relevance:** Session X / Arc Y  
-**Status:** Active / Planned / Completed
+**Type:**  Location 
+**Relevance:** 
+**Status:**  Planned 
 
 ## Overview
 
-A harbor at the southernmost tip of the raised mesa of islands. Visitors can dock their ship here and, upon special permission, ascend via an elevator. The permission to ascend is not given lightly.
+A detached Island on the west of the plateau. It was formed from the remains of a fallen god, it's magic still alive in the form of the [[Tortles]]. The surface of the island is dotted with giant bones and jutting mountains. However, the true secrets of the island lie below the surface, within the remains of the god, where caverns are filled with ancient magic and corruption.
 
-At the waterline below only humans keep guard, though a greater force of [[Automatons]] is kept on hold above out of sight of visitors who have no permission to enter the nation.
+![[Pasted image 20260506161118.png]]
 
 ## Key Details
 

@@ -30,7 +30,7 @@ aliases:
 - **Zum Nassen Pelican** - Tavern
 - **Marcellus**
   - Hat diabetis typ 1 glaubt er
-- **Ihr Onkel sein Gsicht auf der Münze**
+- **Ihr (Diva) Onkel sein Gsicht auf der Münze**
 
 ## Reserve NPC names
 
@@ -46,7 +46,7 @@ The party is caught in a violent storm at sea with no land in sight. Their vesse
 
 ## The Harbor Arrival
 
-Upon reaching the [[Romaritime Harbor]], the party manages to get their vessel to dock, though it's badly damaged. They're allowed to disembark and remain in the harbor district itself, but before they can venture inland to the rest of the island, harbor guards intercept them at the checkpoint. They demand customs documentation, cargo manifests, port fees, and a dizzying array of official paperwork before anyone can leave the harbor district. The guards are professional but immovable. "No papers, no passage beyond the harbor!" The bureaucratic process is intentionally slow and complicated, designed to frustrate and delay.
+Upon reaching the [[Marelevo]], the party manages to get their vessel to dock, though it's badly damaged. They're allowed to disembark and remain in the harbor district itself, but before they can venture inland to the rest of the island, harbor guards intercept them at the checkpoint. They demand customs documentation, cargo manifests, port fees, and a dizzying array of official paperwork before anyone can leave the harbor district. The guards are professional but immovable. "No papers, no passage beyond the harbor!" The bureaucratic process is intentionally slow and complicated, designed to frustrate and delay.
 
 #### Passierschein A38
 
@@ -73,7 +73,7 @@ The party now faces a choice: spend days untangling bureaucracy, pay exorbitant 
 
 ## 🔗 Related Elements
 
-**Locations:** [[Romaritime Harbor]]  
+**Locations:** [[Marelevo]]  
 **NPCs:** [[Consortium Baleinier]] (Crime Gang)  
 **Plot Hooks:** Harbor Bureaucracy, Criminal Favor
 

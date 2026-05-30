@@ -12,7 +12,7 @@ aliases:
 
 ## Overview
 
-Located along the [[Aquabus]] line between the [[Romaritime Harbor]] and the [[Court of Fontaine]] lies a hidden settlement along the shore in a crevice: The headquarters of the [[Consortium Baleinier]]. Nearby is the only place where the line of the Aquabus passes in a tunnel under the slope of Mount Automnequi. This tunnel is the [[Consortium Baleinier]]'s access to the line, as they have managed to take control of a few of the ships and use them to smuggle goods into the city.
+Located along the [[Aquabus]] line between the [[Marelevo]] and the [[Court of Aecor]] lies a hidden settlement along the shore in a crevice: The headquarters of the [[Consortium Baleinier]]. Nearby is the only place where the line of the Aquabus passes in a tunnel under the slope of Mount Automnequi. This tunnel is the [[Consortium Baleinier]]'s access to the line, as they have managed to take control of a few of the ships and use them to smuggle goods into the city.
 
 ![[Pasted image 20260506162932.png]]
 

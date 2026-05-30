@@ -2,7 +2,7 @@
 
 ## Sessions
 
-- [[Session 1 - Rough Seas]] - The party arrives at Romaritime Harbor via storm, encountering bureaucracy and crime
+- [[Session 1 - Rough Seas]] - The party arrives at [[Marelevo]] via storm, encountering bureaucracy and crime
 
 ---
 

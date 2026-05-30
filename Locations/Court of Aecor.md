@@ -5,7 +5,7 @@ created: 2026-05-06
 aliases:
   - Court of Fontaine
 ---
-# Court of Fontaine
+# Court of Aecor
 
 **Type:**  Location 
 **Relevance:** 

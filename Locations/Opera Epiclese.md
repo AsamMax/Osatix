@@ -13,7 +13,7 @@ aliases:
 
 ## Overview
 
-Located east of the [[Court of Fontaine]] , connected to the main city via the [[Aquabus]] across a small stretch of water the Courthouse Theater can be reached by circling from the station across some parks and past a fountain. It is very picturesque.
+Located east of the [[Court of Aecor]] , connected to the main city via the [[Aquabus]] across a small stretch of water the Courthouse Theater can be reached by circling from the station across some parks and past a fountain. It is very picturesque.
 
 ![[Pasted image 20260506153942.png]]
 
