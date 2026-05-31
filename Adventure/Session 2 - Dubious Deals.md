@@ -19,6 +19,12 @@ On the Ilsand of [[Galapas]] they scared off two [[Consortium Baleinier]] agents
 
 ## The party goes to meet the client
 
+- Up the mountains => Challenges
+	- Find a way up climbing, walking, etc.
+	- Get to close to roosting giant Ortolans (french bird)
+	- ![[Pasted image 20260531191817.png]]
+	- ![[Pasted image 20260531192019.png]]
+
 - He awaits them seemingly alone at the top of the mountain (disguised guard)
 	- He has with him a [[Mechanical Hound]], disguised as a pet
 	- He wears a white rose
