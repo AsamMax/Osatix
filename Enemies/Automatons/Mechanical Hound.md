@@ -10,10 +10,10 @@ challenge: "2"
 
 **Reference:** Homebrew -> Adjusted Saber Toothed tiger
 
-**Type/Size:** {{construct, small}}, {{absolute loyal to owner}}  
-**Armor Class** {{16}} ({{natural armor}})  
-**Hit Points** {{57}} ({{7}}d{{10}} + {{14}})  
-**Speed** {{40}}, 
+**Type/Size:** construct, small, absolute loyal to owner
+**Armor Class** 16 (natural armor)
+**Hit Points** 57 (7d10 + 14)  
+**Speed** 40, 
 
 |   STR   |   DEX   |   CON   |   INT   |  WIS   |  CHA   |
 | :-----: | :-----: | :-----: | :-----: | :----: | :----: |

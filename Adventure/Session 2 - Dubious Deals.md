@@ -17,52 +17,54 @@ Characters entered the Island state [[Court of Aecor]] via the [[Marelevo]] Port
 
 On the Ilsand of [[Galapas]] they scared off two [[Consortium Baleinier]] agents who gave them a real and a fake [[CrystalBall]]. The item was sold to a client who awaits it at the top of the mountain.
 
+## Bureaucracy and threats of confiscation
+
+- Tortle Quentin hands the remaining crew on the Osatix their (fake) documents
+- A procession nears from the elevator
+	- [[Aecor Research Institute]] Head: Chercheur Supreme [[Sigewinne]] goes to the ship with an entourage of
+		- Sorei (Researcher, fully focused on magicanics), doesn't give a shit about anything else
+		- Neuvine (Sorei's assistant), quietly annoyed, wants to just be done with this
+		- Chevral (Guard posted at the bottom of the elevator), jovial, tangles with the illegal, but **only** at the bottom of the elevator
+		- A set of guards from the top and a [[Mechanical Man]]
+	- The crew is informed, that if they stay for more than 24 hours, the Osatix can and will be confiscated due to containing potentially dangerous magic
+	- Sorei, Neuvine and Chevral board, and conduct measurements on the gems until they are persuaded to leave as the "Osatix needs to regularly move or something bad happens"
+	- Sorei does leave a Stationary Observer to continue taking measurements
+		- The Gems did react to her measuring devices
+
+## The party meets up
+
+- A subgroup (Pimpernell, Bjorne, Paddy) set out to find their companions, while all other crewmember take the Osatix for a spin
+- They go to the top of the elevator then ride the [[Aquabus]] until they reach [[Galapas]] where they jump of to run after the Ice Bear and the Rabbit on its head
+
 ## The party goes to meet the client
 
-- Up the mountains => Challenges
-	- Find a way up climbing, walking, etc.
-	- Get to close to roosting giant Ortolans (french bird)
+- Up the mountain the party encounters a couple of nesting giant Ortolans
 	- ![[Pasted image 20260531191817.png]]
 	- ![[Pasted image 20260531192019.png]]
 
-- He awaits them seemingly alone at the top of the mountain (disguised guard)
-	- He has with him a [[Mechanical Hound]], disguised as a pet
-	- He wears a white rose
-- Goes through with the handoff then, on a roundabout way, returns to the [[Fortress of Meropide]], via a hidden back-entrance
-- If followed carefully, the party may discover a hidden entrance to the underwater prison
-
-## The party explores [[Galapas]]
-
-- Very big somewhat circular mountain makes up the center of the island
-- The ground is shaped in hexagons
-- A lake at the front of the shell enables entry (underwater)
-- The hollow shell contains a hidden village of [[Tortles]]
-
-- On the Island there are multiple [[Tortles]] to find
-	- Einture -> young, loves to paint, asks for help to find new colors
-	- Sine -> Elderly, collects berries, attacked? by wildlife 
-
-## The party heads to the [[Court of Aecor]]
-
-- High walls, can not enter
-
-
-## Connections
-
-**Related NPCs:** [[Character Name]]  
-**Related Locations:** [[Location Name]]  
-**Related Plot Hooks:** [[Hook Name]]
-
-## Session History
-
-| Session | Notes | Status |
-|---------|-------|--------|
-| X | What happened | Active/Resolved |
-| Y | Player interaction | Ongoing |
+- After attacking before talking Druth Finally placates them (with some healing) and gains the promise, that if he were to fall off the mountain to escape the dangerous man at the peak, he would be caught
+- The party confronts the client
+	- He awaits them with a single [[Mechanical Hound]], disguised as a pet
+	- He wears a white rose, a black robe hiding a uniform, has greying black hair and pale red eyes
+- He asks for both the fake and real orbs
+	- The party tries to dodge the question and only hand over one
+	- The man calls them amateurs, then jumps off the mountain, disappearing
+- After checking, that the bird is near, Druth follows
 
 ## Notes
 
-Campaign-specific details and player interactions.
+Stuff I described and notes taken during session
+ 
+Wasserfall 60-70 Meter
+Leuchtturm 80 Meter hoch
+Währung: Credits
+Baleiner Logo: Wal und Netz
+Mechanische Menschen haben Schocking Grasp auf fast jedem Touch +4 to hit d8 Lightning Dmg
+Wir haben ein Ankerseil
+Dunkle Person auf der Klippe
+- Wusste von beiden Kugeln (wollte die echte **und** die falsche)
+- Ist samt Mecha-Hund von der Klippe gesprungen
+Druth nimmt beide Kugeln und springt von der Klippe (der Vogel hatte versprochen ihn zu fangen)
 
 ---
 

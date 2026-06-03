@@ -15,7 +15,7 @@ aliases:
 
 Wiki Entry: https://genshin-impact.fandom.com/wiki/Court_of_Fontaine
 
-The main city in the center of the islands. Made up of high walls and can only be officially entered through waterways. The streets are lined with 2-3 story buildings, often with storefronts for fashion, cafes or curiosities at the ground floor. [[Automatons]] patrol the streets and keep the peace.
+The main city in the center of the islands. Made up of high walls and can only be officially entered through waterways. The streets are lined with 2-3 story buildings, often with storefronts for fashion, cafes or curiosities at the ground floor. [[Inspo image]] patrol the streets and keep the peace.
 
 ![[Pasted image 20260506144854.png]]
 

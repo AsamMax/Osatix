@@ -1,21 +1,21 @@
 ---
 tags:
+  - npc
+  - session-notes
   - location
-created: 2026-05-06
+  - plot-hook
+created: 2026-06-03
 aliases:
-  - Romaritime Harbor
 ---
-# Marelevo
+# Sigewinne
 
-**Type:** Location
-**Relevance:** Session X / Arc Y  
-**Status:** Active / Planned / Completed
+**Type:** NPC 
+**Relevance:** Session 2
+**Status:** Active / Planned 
 
 ## Overview
 
-A harbor at the southernmost tip of the raised mesa of islands. Visitors can dock their ship here and, upon special permission, ascend via an elevator. The permission to ascend is not given lightly.
-
-At the waterline below only humans keep guard, though a greater force of [[Inspo image]] is kept on hold above out of sight of visitors who have no permission to enter the nation.
+Brief description here.
 
 ## Key Details
 

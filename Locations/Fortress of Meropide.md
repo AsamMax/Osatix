@@ -16,7 +16,7 @@ Located in the ocean depths between the city [[Court of Aecor]] and the [[Opera 
 
 ![[Pasted image 20260506155015.png]]
 
-Inmates who broke one of the many rules of the nation of laws are placed here to produce parts for the [[Automatons]] and other mechanical wonders. Very few have ever escaped.
+Inmates who broke one of the many rules of the nation of laws are placed here to produce parts for the [[Inspo image]] and other mechanical wonders. Very few have ever escaped.
 ## Key Details
 
 - **Important Point 1:**
