@@ -50,7 +50,7 @@ Follows its masters instructions to the letter. Is capable of autonomous fightin
 
 ## Lore
 
-These Hounds are used as companions for law enforcers in [[Court of Aecor]], or as Guards in the [[Fortress of Meropide]]. None should be in private hands. However, there are similar, non-weaponized dogs available as mechanical pets.
+These Hounds are used as companions for law enforcers in [[Court of Aecor]], or as Guards in the [[Fortress of Magusine]]. None should be in private hands. However, there are similar, non-weaponized dogs available as mechanical pets.
 
 ## Encounter Notes
 

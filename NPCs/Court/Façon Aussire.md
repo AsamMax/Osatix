@@ -4,7 +4,7 @@ tags:
 created: 2026-05-06
 aliases:
 ---
-# Wriothesley
+# Façon Aussire 
 
 **Type:** NPC 
 **Relevance:** Session X / Arc Y  
@@ -12,9 +12,7 @@ aliases:
 
 ## Overview
 
-As the head jailor of the [[Fortress of Meropide]] it is his job to keep the prisoners confined and the production running. Loyal to the court he is a deep believer in justice and consequence.
-
-![[Pasted image 20260506165532.png]]
+As the head jailor of the [[Fortress of Magusine]] it is his job to keep the prisoners confined and the production running. Loyal to the court he is a deep believer in justice and consequence.
 
 In complete secrecy he is building a ship with parts split off from the production to escape the flood he heard was coming.
 

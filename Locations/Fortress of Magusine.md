@@ -3,8 +3,9 @@ tags:
   - location
 created: 2026-05-06
 aliases:
+  - Fortress of Meropide
 ---
-# Fortress of Meropide
+# Fortress of Magusine
 
 **Type:**  Location 
 **Relevance:** Session X / Arc Y  
@@ -25,7 +26,7 @@ Inmates who broke one of the many rules of the nation of laws are placed here to
 
 ## Connections
 
-**Related NPCs:** [[Wriothesley]]
+**Related NPCs:** [[Mysterious Man]]
 **Related Locations:** [[Location Name]]  
 **Related Plot Hooks:** [[Hook Name]]
 

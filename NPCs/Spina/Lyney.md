@@ -13,7 +13,7 @@ aliases:
 ## Overview
 
 A magician and entertainer. At least at the surface. In truth he works with the [[Consortium Baleinier]] and uses his access to the city and the upper class at his performances to gather intel.
-All until a volunteer disappears during one of his magics shows and he is to be put on trial to be cast into the [[Fortress of Meropide]]
+All until a volunteer disappears during one of his magics shows and he is to be put on trial to be cast into the [[Fortress of Magusine]]
 
 ![[Pasted image 20260506165231.png]]
 

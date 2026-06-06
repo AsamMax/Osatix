@@ -17,7 +17,7 @@ Located east of the [[Court of Aecor]] , connected to the main city via the [[Aq
 
 ![[Pasted image 20260506153942.png]]
 
-On the back side the courthouse juts into the ocean, where an elevator allows for criminals to be lowered into the depths to meet their fate in the [[Fortress of Meropide]]. (and yes the pillars do look like a guillotine)
+On the back side the courthouse juts into the ocean, where an elevator allows for criminals to be lowered into the depths to meet their fate in the [[Fortress of Magusine]]. (and yes the pillars do look like a guillotine)
 
 ![[Pasted image 20260506154231.png]]
 
