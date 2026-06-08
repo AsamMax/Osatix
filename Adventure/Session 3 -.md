@@ -59,7 +59,10 @@ After getting the party together on [[Galapas]] they have the options of:
 
 ## Notes
 
-Campaign-specific details and player interactions.
+They landed with the Osatix, which now has a damaged rudder and some torn sails
+They docked in a lagune at the side of [[Galapas]]
+
+
 
 ---
 
