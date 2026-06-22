@@ -18,7 +18,7 @@ aliases:
 
 - **Marelevo** The Port
 - **Aecor** The Island(s)
-- **Le Consortium Baleinier** The Whale Consortium
+- **Le Consortium Baleinier** The Whaling Consortium
   - **Le Patron** The Boss of the Consortium
   - **Kasimir** Consortium Contact
   - **Valeria**
@@ -26,7 +26,7 @@ aliases:
     - Kunde an der Bergspitze - Blaue Rose
       - 2 Krystal Kugeln, eine Fake eine Real
 - **Tortles** The dumb little guys
-  - **Quentin** - Hafen Greeter Guy
+  - [[Quentin]] - Hafen Greeter Guy
 - **Zum Nassen Pelican** - Tavern
 - **Marcellus**
   - Hat diabetis typ 1 glaubt er
