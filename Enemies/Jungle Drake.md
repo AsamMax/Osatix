@@ -20,8 +20,8 @@ _Large Dragon, Neutral Evil_
 - **Skills** Acrobatics +5, Stealth +5
 - **Damage Immunities** Poison
 - **Condition Immunities** Paralyzed, Poisoned
-- **Senses** Darkvision 60 ft., Passive Perception 11
-- **Languages** Draconic
+- **Senses** Darkvision 60 ft., Passive Perception 12
+- **Languages** Draconic, Interpretive Dance
 - **Challenge** 4 (1,100 XP) | **Proficiency Bonus** +2
 
 ---

@@ -27,6 +27,13 @@ aliases:
 - Marina - Little Tortle 3
 - Kalina - Little Tortle 4
 
+- Boris das Kapybara
+
+	Opfer für Drake
+- Colorful stone
+- red gem
+- sentry crystal
+
 ## Pre-Session Context
 
 The party has just landed on [[Galapas]] with the [[Osatix]] even more damaged than before. They do not know that the tortles have a territory of their own, only that they met one strange little tortle already.
