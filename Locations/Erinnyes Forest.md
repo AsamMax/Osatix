@@ -12,7 +12,7 @@ aliases:
 
 ## Overview
 
-Located on the same island as the [[Opera Epiclese]] and to it's west these woods are profoundly magical and permeated with the ancient magic of [[Fae]]. And they may have enough of the humanoids forever encroaching on their territory.
+Located on the same island as the [[Opera Crépuscule]] and to it's west these woods are profoundly magical and permeated with the ancient magic of [[Fae]]. And they may have enough of the humanoids forever encroaching on their territory.
 
 ![[Pasted image 20260506161517.png]]
 

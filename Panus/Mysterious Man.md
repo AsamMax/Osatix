@@ -10,7 +10,7 @@ challenge: "6"
 
 ### Façon Aussire 
 
-He is the head of the [[Fortress of Magusine]], which makes him closely connected to the [[Opera Epiclese]] and tied to the government of [[Court of Aecor]]. He has heard of the prophecy of impending doom and, unsatisfied with the apparent incompetence of the government, decided to prepare on his own.
+He is the head of the [[Fortress of Magusine]], which makes him closely connected to the [[Opera Crépuscule]] and tied to the government of [[Court of Aecor]]. He has heard of the prophecy of impending doom and, unsatisfied with the apparent incompetence of the government, decided to prepare on his own.
 
 He started working with multiple contacts, like the [[Consortium Baleinier]] to have important items first disappear, then be lauded for recovering them. In truth he commissions fakes to be created so he can regain both the true and fake item, keeping the former and returning the later to the owner. When interfacing with criminals he uses the Mantle to appear as if with black greying hair and pale red eyes.
 
