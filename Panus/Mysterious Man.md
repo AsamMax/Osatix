@@ -12,7 +12,7 @@ challenge: "6"
 
 He is the head of the [[Fortress of Magusine]], which makes him closely connected to the [[Opera Crépuscule]] and tied to the government of [[Court of Aecor]]. He has heard of the prophecy of impending doom and, unsatisfied with the apparent incompetence of the government, decided to prepare on his own.
 
-He started working with multiple contacts, like the [[Consortium Baleinier]] to have important items first disappear, then be lauded for recovering them. In truth he commissions fakes to be created so he can regain both the true and fake item, keeping the former and returning the later to the owner. When interfacing with criminals he uses the Mantle to appear as if with black greying hair and pale red eyes.
+He started working with multiple contacts, like the [[Consortium Baleinier]] to have important items first disappear, then be lauded for recovering them. In truth he commissions fakes to be created so he can regain both the true and fake item, keeping the former and returning the later to the owner. When interfacing with criminals he uses the Mantle to appear as if with black greying hair and pale red eyes. 
 
 As such he has build up quite an arsenal of magical items giving him no small amount of magical power. Each of these gives of a magical glow of power and has to be recharged regularly at the source of magic hidden in the [[Fortress of Magusine]]. Without access or knowledge of this the items, if claimed by players, can only be used 5 times (or days) before fading.
 

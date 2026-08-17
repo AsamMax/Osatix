@@ -33,6 +33,14 @@ The tortles have started repairs on the Osatix - The crew is informed that it wi
 		- Knows where the underwater prison is (Fortress of Magusine)
 		- Knows where the court is ([[Opera Crépuscule]])
 			- It is the residency of their "star", the goddess [[Goddess|étoile Marime]]
+	- He brings them into the Fleuve Cendre
+	- In the cystern they walk into the branch office of the Baleiniers
+	- There they nearly drop through a falltür and have a tense conversation with an elderly, mind reading baleiner there to ensure hospitality
+	- They learn about Lotte, who is researching a story about lost and returned artifacts
+	- Then they get passage to above and make their way to the fountain square
+	- There they see a "fountain", which is a rainbow blow with two aurora rings. 
+	- When sending his wild companion through the water, Druth sees a vision of the city flooding and tells the party about it
+	- After discovering the water of his bottle (going through his hand to the foundain) takes his shadow with him and turns his hand into water, he finally goes into the water and turns into a dragon rising up into the sky
 
 - **B)** Go towards the [[Aecor Research Institute]]
 	- Discover the bridge is broken
