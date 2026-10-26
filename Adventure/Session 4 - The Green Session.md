@@ -26,6 +26,8 @@ aliases:
 - Qurina - Little Tortle 2
 - Marina - Little Tortle 3
 - Kalina - Little Tortle 4
+- Quentin 3 - True Hero
+- Quentin 5 - Avatar im Eis
 
 - Boris das Kapybara
 
@@ -64,10 +66,6 @@ A predator makes it obvious the capybaras need help right now. The fight should 
 ### 3. Quiet Invitation
 
 Once the predator is driven off, the tortle does not become chatty or grateful in a loud way. Instead, they stay guarded, check that the capybaras are unharmed, and gesture for the party to follow if they want answers or repairs. The path turns into narrow shallows and reed tunnels that hide the tortle territory from casual view.
-
-### 4. Town
-
-### 5. Puzzle
 
 ## Reward
 

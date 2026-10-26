@@ -40,4 +40,4 @@ _Large Dragon, Neutral Evil_
 
 #### Reactions
 
-**Twisting Tail.** When a creature within 10 feet of the drake uses its movement to leave the drake's reach, the drake can make one Stinger attack against it. If the attack hits, the creature's speed is reduced to 0 for the rest of the turn.
+**Twisting Tail.** When a creature within 10 feet of the drake uses its movement to enter or leave the drake's reach, the drake can make one Stinger attack against it. If the attack hits, the creature's speed is reduced to 0 for the rest of the turn.
