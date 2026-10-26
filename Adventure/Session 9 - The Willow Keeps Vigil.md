@@ -9,6 +9,8 @@ party-size: 3-4
 ---
 # Session 9 - The Willow Keeps Vigil
 
+🎵 [Session music](https://music.youtube.com/watch?v=adoHMLCikPA&si=qjqhc8CBs-agWNAL)
+
 Separate alternative to [Into Erinnyes](<D:/dev/Osatix/Adventure/Session 9 - Into Erinnyes.md>). Three modular beats entirely about the Weeping Willow and the fae of Erinnyes. Preparation is in English; blockquotes are optional German read-aloud text and dialogue.
 
 ## Premise
@@ -25,7 +27,16 @@ The party runs into the forest after the opera. Between the trees, someone start
 - **The disagreement:** **Herr Falter**, a moth-faced fae, refuses to witness a concealed bargain. He wants an outsider to expose the terms publicly. He will not openly challenge Saum first; he is the source of the conspicuous invitations in beat 1.
 - **The binding:** Three braided willow cords tie the bier to exposed roots. They anchor the old keeper and prepare the transfer. Undoing them releases both sleepers without a replacement, but ends the inner grove's path concealment until the fae find another solution. Ordinary forest and fae remain; the tree does not die and the whole nation is not threatened.
 
-**Tone:** Quiet hospitality, intimate knowledge nobody should possess, patient smiles, and natural things behaving almost correctly. Keep the threats understandable once investigated. Food, spoken names, and polite greetings do not secretly bind a PC. No PC becomes a replacement through a failed check or a clever wording trap.
+**Tone:** Soft Halloween: wet leaves, candlelit faces, an empty coffin, and a nursery rhyme heard in the wrong voice. The horror is being politely expected at your own farewell. Let details linger before explaining them. Keep the threats understandable once investigated. Food, spoken names, and polite greetings do not secretly bind a PC. No PC becomes a replacement through a failed check or a clever wording trap.
+
+### GM Notes - making it creepier at the table
+
+- **Let a detail change:** Describe something ordinary, move attention elsewhere, then return to one difference: an empty chair is now warm; the footsteps stop one pace after the party does; a face in a puddle keeps watching after its owner looks away. Allow inspection to reveal a real clue instead of endlessly moving the answer.
+- **Give the silence space:** After a strange sound or an unsettling line, wait for the players to respond. One precise detail is stronger than reading a paragraph of horrors in succession.
+- **Repeat three motifs:** A four-note hummed tune; wet footprints with no arrival trail; willow leaves tucked beneath closed eyelids. The tune belongs to the keeper, the footprints lead to the gathering, and the leaves mark those participating in the wake.
+- **Keep the fae physically wrong:** Their smiles appear a moment before their faces turn. They watch food rather than eat it. A guest turns to follow someone leaving, but the guest's shadow keeps facing the table. These are signs of this grove's magic, not unlisted combat abilities.
+- **Make investigation useful:** The delayed reflections point toward the willow; the procession's empty clothes show where the real guests gathered; an unfinished epitaph names Elian. Do not punish every attempt to touch or understand something.
+- **Use relief:** A mundane joke, Elian asking for his boots, or Falter being irritated by candle wax gives the table a breath. Resume the eerie tone with a small returning detail rather than a sudden attack.
 
 ### Connections and prerequisites
 
@@ -58,7 +69,9 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 
 > Zwischen den dünnen Weiden hängt Nebel. Weiter vorn weint jemand. Für einen Moment klingt es genau wie eine Stimme aus eurer Gruppe.
 >
-> An einem Zweig hängt ein nasses Band. Darauf steht in dunklen Buchstaben: „Ein Platz ist noch frei.“
+> Ihr bleibt stehen. Die Schritte hinter euch gehen noch einen Schritt weiter. Dann ist es still.
+>
+> An einem Zweig hängt ein nasses Band. Darauf steht in dunklen Buchstaben: „Zur letzten Nacht. Ein Platz ist noch frei.“
 
 ### Decision and stakes
 
@@ -68,12 +81,16 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 
 ### GM Notes
 
-- **Three things to explore:** Bare footprints fill with water from below; a leaf bears a rough impression of a sleeping human face; several adult-sized figures stand motionless behind the next line of trunks.
-- **What observation reveals:** The figures are empty bark garments hung on branches. The human face is Elian's, but nobody needs to recognise him yet. The crying moves toward the great willow while the canopy stays a stable landmark.
+- **The procession:** First show bobbing lanterns passing between trunks without footsteps. On approach, they hang inside adult-sized bark coats suspended from willow branches. Their sleeves sway like arms. The nearest coat turns slowly toward a light brought close; it contains nobody.
+- **The puddle:** Bare footprints fill with water from below. A PC's reflection lingers after the PC steps aside, then silently puts a finger to its lips and looks toward the willow. Touching the surface breaks the image normally. The footprints remain followable.
+- **The face in the leaf:** A pale leaf bears the impression of a sleeping human face. Its eyes open when placed on a palm, then close. This is Elian's face, not a prediction of a PC's death. Carrying it provides a recognisable connection in beat 3; it imposes no curse.
+- **What observation reveals:** The crying and the four-note tune move toward the great willow while its canopy stays a stable landmark. The extra footstep is an echo of the keeper's remembered walking, audible but without a hidden creature making an attack.
 - **Useful checks:** Investigation or Survival DC 13 distinguishes the human tracks from the fae's deliberately placed invitations. Arcana DC 14 identifies the voice as a local echo rather than a creature imitating the party to communicate. Checks provide understanding, not permission to follow an obvious trail.
 - **Falter's approach:** He appears only after the party has had time to investigate: a tall figure in a damp coat, with small moths moving behind the skin of his cheeks. His lips stay closed when he speaks. He can speak Common; this is an addition for this NPC.
 
-> „Sie decken für einen, der morgen nicht mehr nach Hause geht. Wollt ihr sehen, ob er das weiß?“
+> „Leise. Sie üben schon seinen Abschied.“
+>
+> „Er weiß noch nicht, dass er der Verstorbene ist. Wollt ihr ihn wecken?“
 
 - **His limits:** He identifies the wake and a sleeping human. He wants the terms spoken before witnesses, but leaves the party to decide whether to attend. He points out both the table path and the dry bank out.
 
@@ -81,7 +98,7 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 
 ### Eventualities
 
-- **Engage:** Following the ribbons or Falter reaches beat 2. Following the human footprints around the table reaches beat 3 directly. Neither requires a successful check.
+- **Engage:** Following the ribbons or Falter reaches beat 2. Following the human footprints around the table reaches beat 3 directly. Neither requires a successful check. Near the gathering, the weeping stops halfway through a breath; the guests all turn toward the party's approach.
 - **Bypass:** The dry bank leads out of this hollow. Following the visible great canopy instead still reaches the willow without engaging Falter. Leaving entirely advances the unattended wake as described above.
 - **Failed investigation:** Give the physical clue but leave its meaning uncertain; a careless approach alerts Saum that uninvited visitors are coming. Do not damage a PC merely for listening.
 - **Provoke combat:** Cutting the hung bark garments down aggressively, setting living saplings alight, or attacking Falter wakes the visible sentries. Before initiative, their roots shift and Falter orders the party to stop. Falter withdraws rather than joining the fight. Merely touching the invitation or refusing him provokes nothing.
@@ -99,9 +116,13 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 
 **Trigger:** The party sees candlelight beneath the branches. Nobody at the table breathes, but every glass mists over from within.
 
-> Unter den Zweigen steht eine lange Tafel. Auf jedem Teller liegt ein einzelner Zahn. Die Gäste wenden euch gleichzeitig die Köpfe zu.
+> Unter den Zweigen steht eine lange Tafel. Die Kerzen flackern, obwohl sich kein Blatt bewegt. Auf jedem Teller liegt ein einzelner Zahn. Niemand isst.
 >
-> Am freien Ende hebt eine Frau mit tropfendem Laub im Haar ihr Glas. „Wie schön. Es fehlen uns noch Zeugen.“
+> An einem freien Stuhl lehnt ein kleiner Kranz. Auf seinem Band steht: „Er war nur kurz im Wald.“
+>
+> Die Gäste lächeln. Erst danach wenden sie euch die Köpfe zu.
+>
+> Eine Frau mit tropfendem Laub im Haar hebt ihr Glas. „Da seid ihr ja. Wir haben noch nicht zugedeckt.“
 
 ### Decision and stakes
 
@@ -111,7 +132,10 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 
 ### GM Notes
 
-- **Hospitality:** The food smells like meals remembered from childhood, but eating carries no binding effect. The teeth are seeds carved from pale wood, revealed by handling one. Guests answer direct questions courteously and too slowly.
+- **Hospitality:** The food smells like meals remembered from childhood, but eating carries no binding effect. The teeth are carved willow seeds, recognisable on close inspection rather than immediately explained. Guests answer direct questions courteously and too slowly.
+- **One guest to focus on:** A woman keeps stroking a wrapped bundle that hums the four-note tune. An opened fold reveals only damp leaves. She looks puzzled rather than angry when someone points this out; she has repeated the gesture for so long that she no longer remembers what she once carried.
+- **The empty place:** Its cup is warm, and the seat bears the impression of someone who has just stood. The place card names Elian. Nothing takes a PC's name or changes the card to threaten them. The table is already expecting a particular person.
+- **A small interruption:** A guest taps a spoon against an empty glass. From the trunk comes one answering knock. The gathering starts humming. This is preparation, not a countdown that skips straight to an irreversible outcome.
 - **Saum's opening account:** Elian accepted a bed for one night; the wake marks his departure from his former life. She admits the night is seven years when asked how long it lasts. She has no authority over the party's names, souls, or futures.
 - **Discoverable facts:** A place card names Elian; his basket lies beneath the table; the sound from the trunk is a second, much older voice. Falter can point out that the bargain has not yet been confirmed. These facts are available through looking and conversation, without a roll gate.
 - **Checks:** Insight DC 13 notices Saum avoiding the duration; Persuasion DC 14 can secure a private conversation with Elian or have the full bargain spoken publicly. Clear questions and concrete leverage can accomplish the same without a check.
@@ -120,11 +144,13 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 
 **Saum, pressed on the duration:**
 
-> „Sieben Jahre. Für uns ist das eine Nacht. Ich werde es ihm sagen, ehe er antwortet. Ihr Menschen hört nur so ungern bis zum Ende zu.“
+> „Sieben Jahre. Danach darf er wieder nach Hause. Sein Platz am Tisch wird dann gewiss noch frei sein.“
+>
+> „Ja, ich sage es ihm, ehe er antwortet. Wir sind doch keine Ungeheuer.“
 
 **The voice from the trunk:**
 
-> „Lasst ihn erst aufwachen.“
+> „Lasst ihn erst aufwachen. Bitte. Ich möchte, dass diesmal jemand wach ist.“
 
 **Combat (3 PCs; additions for 4 in parentheses):** Saum uses [Dryad, 2014](https://www.dndbeyond.com/monsters/16849-dryad), supported by 1 [Awakened Tree, 2014](https://www.dndbeyond.com/monsters/16792-awakened-tree) (+1 tree); other guests scatter and Falter stays neutral.
 
@@ -149,9 +175,13 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 
 **Trigger:** The party parts the hanging branches and sees the intended successor. Saum's presence depends on the party's actual route; she is not automatically waiting here after being defeated elsewhere.
 
-> Zwischen den Wurzeln liegt ein Mann auf einer geflochtenen Bahre. Er atmet. Drei geflochtene Schnüre verbinden die Bahre mit dem Stamm.
+> Zwischen den Wurzeln liegt ein Mann auf einer geflochtenen Bahre. Ein flacher Deckel aus Weidengeflecht lehnt daneben. Auf der Innenseite sind frische Kratzspuren.
 >
-> Über ihm schiebt sich ein zweites Gesicht durch die Rinde. Tränen laufen über das Holz. Als der Mann im Schlaf die Augen bewegt, tut das Gesicht im Stamm dasselbe.
+> Unter den geschlossenen Augenlidern des Mannes stecken schmale Weidenblätter. Seine Brust hebt sich. Drei geflochtene Schnüre verbinden die Bahre mit dem Stamm.
+>
+> Über ihm schiebt sich ein zweites Gesicht durch die Rinde. Es hat dieselben Blätter unter den Lidern. Als der Mann im Schlaf die Augen bewegt, tut das Gesicht im Stamm dasselbe.
+>
+> Aus dem Holz flüstert es: „Nicht den Deckel.“
 
 ### Decision and stakes
 
@@ -162,16 +192,24 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 ### GM Notes
 
 - **Wake him:** Ordinary touch and speech wake Elian; no spell or check is required. He remembers accepting a bed, not a role. The basket, his worn hands, and his questions make him a person to talk to, not a silent rescue token.
+- **His boots:** They stand beneath the bier, neatly filled with fallen willow leaves. Emptying them is harmless; handing them back gives Elian an ordinary, grounding task while the party talks.
+- **The leaves:** They lift out easily and leave his eyes unharmed. Their purpose is ceremonial; removing them makes the borrowed voice return briefly to the keeper's own older tone. They do not prevent ordinary waking.
+- **The lid:** The scratches were made by the old keeper during a previous, unsuccessful attempt to leave her binding through this bier. They are an actual sign of her confinement, not evidence that Elian has died and returned. Nature or simple inspection reveals the woven lid is old beneath its fresh outer shoots. The keeper can explain it when asked.
+- **The trunk:** From the roots, the party can hear the table's humming as if it came from inside the wood. A hand pressed to the bark feels a slow answering movement. The keeper is reachable and can answer; do not reduce every question to another cryptic whisper.
 - **Elian's priorities:** Return to his household and avoid abandoning someone else to suffer. He initially mistakes the weeping for his own dream. He refuses the seven years when given straightforward support and a viable way out. Left alone under Saum's pressure, he chooses the income bargain described in the unattended outcome.
 - **The keeper's truth:** She volunteered generations ago and regrets it. She can describe the binding and its cost. She wants release but will not knowingly force Elian into her place. Her voice and face can move while her body remains in the tree.
 
 **Elian, waking:**
 
-> „Ich wollte nur warten, bis es hell wird. Meine Familie weiß nicht einmal, wo ich bin. Warum weint der Baum mit meiner Stimme?“
+> „Ist es schon Morgen? Ich habe geträumt, dass alle um mich herumstehen und warten, bis ich aufhöre zu atmen.“
+>
+> „Meine Stiefel. Wo sind meine Stiefel? Ich möchte nach Hause.“
 
 **Die Unter-der-Rinde:**
 
-> „Ich habe damals Ja gesagt. Das macht die Jahre nicht kürzer. Er muss nicht meinen Platz einnehmen. Aber dann müsst ihr uns ohne die verborgenen Wege lassen.“
+> „Ich habe damals Ja gesagt. Sie haben meine Stimme behalten. Dann meine Träume. Irgendwann wusste ich nicht mehr, wie man aufwacht.“
+>
+> „Löst die drei Schnüre. Dann kann er gehen. Ich auch. Aber die Wege werden uns nicht mehr verbergen.“
 
 **Understand the binding**
 
@@ -203,6 +241,14 @@ Allow about 30-45 minutes for the forest approach, 45-60 for the gathering, and 
 - **Provoke combat:** Assaulting Saum, attacking a defender, or forcing the warned-against release starts the listed fight. Defenders try to interrupt access to the cords, not execute Elian. They stop at the outer canopy after retreat. Killing Saum ends her personal opposition but does not untie the cords automatically.
 - **Burn the willow:** Dry cord-burning can release a cord; spreading fire threatens both sleepers and the living tree. Telegraph smoke, heat, and the reachable root-arch exit before applying ordinary fire damage. Do not use instant incineration or an unannounced boss transformation.
 - **Likely consequences:** Release ends the borrowed voices and opens the local paths. Saum begins moving vulnerable creatures deeper into the woods. A supported departure for Elian leaves a potential friend; a new willing keeper leaves a disturbing place the party may choose to revisit. None of these outcomes solves or reveals the campaign's larger mysteries.
+
+**Optional last image — after a successful departure:**
+
+> Hinter euch wird das Summen leiser. Zum ersten Mal hört ihr wieder ein Tier im Unterholz.
+>
+> Am letzten Weidenzweig hängt ein nasses Band. Die Schrift ist frisch: „Ein Platz ist wieder frei.“
+
+This is the fae advertising the vacancy, not a new curse, a reversal of the rescue, or a forced cliffhanger. Leave the party's achieved outcome intact.
 
 ## GM Notes - combat and continuity
 
