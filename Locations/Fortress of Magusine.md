@@ -13,7 +13,7 @@ aliases:
 
 ## Overview
 
-Located in the ocean depths between the city [[Court of Aecor]] and the [[Opera Epiclese]], only accessible over a single elevator, this Fortress acts as both a prison and a manufacturing plant.
+Located in the ocean depths between the city [[Court of Aecor]] and the [[Opera Crépuscule]], only accessible over a single elevator, this Fortress acts as both a prison and a manufacturing plant.
 
 ![[Pasted image 20260506155015.png]]
 

@@ -3,6 +3,7 @@ tags:
   - npc
 created: 2026-05-06
 aliases:
+  - étoile Marime
 ---
 # Goddess
 
